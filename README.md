@@ -34,4 +34,4 @@ Hello, I'm Erika. I have a strong passion in data science, analysis, and visuali
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
   - always love to learn new things and meet new people.
-  - During my participation at <a href="https://ozunconf19.ropensci.org/>"rOpenSci OzUnconference 2019</a>, I contributed to creating the package <a href="https://CRAN.R-project.org/package=learningtower">Learningtower</a>.
+  - During my participation at <a href="https://ozunconf19.ropensci.org/>rOpenSci OzUnconference 2019</a>, I contributed to creating the package <a href="https://CRAN.R-project.org/package=learningtower">Learningtower</a>.
