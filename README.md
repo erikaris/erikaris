@@ -33,5 +33,5 @@ Hello, I'm Erika. I have a strong passion in data science, analysis, and visuali
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/erika-siregar/">LinkedIn</a> | <a href="https://github.com/erikaris">Github</a> | <a href="https://twitter.com/erikaris">Twitter</a> | <a href="https://instagram.com/erikaris15">Instagram</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
-  - always love to learn new things and meet new people.
+  - I love to learn new things, meet new people, and see new places.
   - During my participation at <a href="https://ozunconf19.ropensci.org/">rOpenSci OzUnconference 2019</a>, I contributed to creating the package <a href="https://CRAN.R-project.org/package=learningtower">Learningtower</a>.
