@@ -30,7 +30,7 @@ Hello, I'm Erika. I have a strong passion in data science, analysis, and visuali
 - 🌱 I’m currently learning big data for official statistics
 - 👯 I’m looking to collaborate on anything related to R and Python for data science
 - 💬 Ask me about statistics, data science, and big data. 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/erika-siregar/">LinkedIn</a> | <a href="https://github.com/erikaris">Github</a> | <a href="https://twitter.com/erikaris">Twitter</a> | <a href="https://instagram.com/erikaris15">Instagram</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/erika-siregar/">LinkedIn</a> | <a href="https://github.com/erikaris">Github</a> | <a href="https://x.com/erikaris">X</a> | <a href="https://instagram.com/erikaris15">Instagram</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
   - I love to learn new things, meet new people, and see new places.
